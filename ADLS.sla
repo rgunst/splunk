@@ -1,0 +1,48 @@
+{
+    "class_id": "com-snaplogic-snap-api-binary-abfsaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "RainforestAlliance-Dev"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "ADLS"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "accessID": {
+                "expression": false,
+                "fp": "5211e8253b4d6b6ba1a00a828f4db8fa1cee59e1bc6014b759a80d0848e06251",
+                "key": "account-cloud-managed-5ebeb2f9f330bc2084a99a17-2020-05-15T15:19:27-990320+00:00",
+                "sym_iv": "G9BbZ/AKax0AiwX/CZIjhA==",
+                "sym_key": "XAFYNkgjOzYvkEK9U9AIjoj7TggCWPSfg8VpTiR2tFxVXNgn5kwKZOwleE6Q7Ad4cfxf+2So3u7OCZqaIew4Cw3X1vadxuMlVWFIfm7BRDKLVKk8eOkbGISPkbo9Etdm+DmWx6JGSjSO9MwtAMupmUX8D6DCZP4W+NmrihZt37WSpRQQR1eYxnDNqOvvp0RwzGMk1Z/qdf6O67wRciKhe9+OALVwQYJJ+y131jbuoj5GKQ3JLeuvatP7u5ceXR8kUCGUiw5hxSmijz0omBT2pqxXcQFeWo5nIt+o8+UkKID0bUa37w7f4KEKqKyubP6zj10cshDqYZHwgVw/Go/zcw==",
+                "value": "TiPZRbkKpQLfywpyUaWDqw=="
+            },
+            "accountName": {
+                "expression": false,
+                "value": "adlsgen2storageAccount"
+            },
+            "endpoint": {
+                "expression": false,
+                "value": "dfs.core.windows.net"
+            },
+            "secretKey": {
+                "expression": false,
+                "fp": "5211e8253b4d6b6ba1a00a828f4db8fa1cee59e1bc6014b759a80d0848e06251",
+                "key": "account-cloud-managed-5ebeb2f9f330bc2084a99a17-2020-05-15T15:19:27-990320+00:00",
+                "sym_iv": "hrMpWpiiZ+F1nuIWz75D/w==",
+                "sym_key": "NCSSTD7T7mXR73zVg3m59vH0Xd75CIUiMBOTmQjmq0FGyL1ng3wwMc7z+p6Bm4ViPOsqjtWdP5f31T8zIoeYBD51x0hz/2zOQP/HIsD6Vnh5Q76a+3aDh2jWnuc04iAo3VrbVQ/jhAIDbThFB8H6Qb7Yy/icToR2eSAF2wvDucfscom6NEGIdqIIwPNm6eBTD59NfmNfNxfNtzIa5oGQFAkAQVKHHdhlCWfoXRwjpJNlwfUVGdUK3DC9hvYIKj0rfOBmxxsO2ZU5Q2GPlp1VXK9D4P6kpvqrUqNax8JmYQPaUriuopP4t57faADS/nR+OyF8JnAknRh9TZ7431p2Cg==",
+                "value": "8VapQup4ndEdf15v2LNLvg=="
+            },
+            "tenantID": {
+                "expression": false,
+                "value": "1"
+            }
+        },
+        "view_serial": 100
+    }
+}

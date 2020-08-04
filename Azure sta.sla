@@ -1,0 +1,36 @@
+{
+    "class_id": "com-snaplogic-snaps-hadoop-binaryazureaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "RainforestAlliance-Dev"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "Azure sta"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "BlobEndpoint": {
+                "expression": false,
+                "value": "https://queueingsta.blob.core.windows.net/"
+            },
+            "accountName": {
+                "expression": false,
+                "value": "queueingsta"
+            },
+            "primaryAccessKey": {
+                "expression": false,
+                "fp": "5211e8253b4d6b6ba1a00a828f4db8fa1cee59e1bc6014b759a80d0848e06251",
+                "key": "account-cloud-managed-5ebeb2f9f330bc2084a99a17-2020-05-15T15:19:27-990320+00:00",
+                "sym_iv": "0NaULDnxrnKFGddOXJxzbw==",
+                "sym_key": "IkDoSI3kzKLtzc3eMKuGaWcWB79cxJ6tVZEr1Dsoc1UxqX0qicLXakYpoRDhXbQc9LTjrc/1fJWamuA9EzKlxc2HGSwuW10Gj3psbCLO6BJ9tTg0jQeBGcsqxeuxgvmkoLhvEFG3+4t/R4IZZJqnZS9nEnu74ildE/fdpfFgacgG299jB041+6HYqcXU5bt0NAVq9I2RH45qMstH6qcbm1dO3dmyLq/Wj9uA0p/uQFwqA+gm9xPeGoX/F0KpyOdPa5R3LwtEfMQu9vh4RyPbg72wyEj1oJ3IiVBYxcrBlXiUKes/HzYI7STyOIc3fBRCYrPylzbYuhEnqY+xxTL4Vg==",
+                "value": "e1CFb8UKzDmNRFMIy6rGHHUCGsba+DsF0dmoz/3bk5Fw4dtBwVcDL3QnQG+Sv6xlsv1HbQuhH6J5tBUwjcJdnsgZJzAvONZu/PpcAASPOIB9aHO1lUBOq/KGfGWej7hM"
+            }
+        },
+        "view_serial": 100
+    }
+}
